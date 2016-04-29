@@ -1,0 +1,22 @@
+{
+  "name": "webcurrency",
+  "version": "1.0.0",
+  "description": "Specs on Github ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drsounds/webcurrency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drsounds/webcurrency/issues"
+  },
+  "homepage": "https://github.com/drsounds/webcurrency#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
